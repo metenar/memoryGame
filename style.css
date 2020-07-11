@@ -1,0 +1,129 @@
+body {
+  background: url(background.jpg) no-repeat;
+  background-position-x: center;
+  background-position: center;
+  font-family: monospace;
+  margin:10px;
+}
+#game div {
+  border: 1px solid black;
+  width: 15%;
+  height: 200px;
+  margin: 20px;
+  display: inline-block;
+} 
+#header {
+  width: 900px;
+  margin-left: 150px;
+}
+#btn {
+height:50px;
+margin: 10px;
+padding: 15px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 17px;
+background-color: tomato;
+border-radius: 10px;
+border-color: tomato;
+color: white;
+}
+#local{
+  color:red;
+  font-size: 17px;
+}
+
+#hard {
+  color:white;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+h1 {
+text-align: center;
+color: cornsilk;
+font-size: 40px;
+}
+
+#board {
+  max-width: 900px;
+  border: 2px solid crimson ;
+  background-color: dodgerblue;
+  margin-left: 150px;
+}
+#hardInput{
+  margin: 20px;
+  display: inline;
+
+}
+#score {
+  background-color: navy;
+  color: bisque;
+  font-size: 20px;
+  border: navy;
+  border-radius: 10px;
+  padding-top: 20px;
+  margin-left: 250px;
+  line-height: 1.7em;
+  display: inline;
+
+}
+.purple {
+  background:url(emoji1.png) no-repeat;
+}
+.purple.clicked{
+  background:url(html1.png) no-repeat;
+}
+.red {
+  background:url(emoji1.png) no-repeat;
+}
+.red.clicked {
+  background : url(css1.png) no-repeat;
+}
+.blue {
+  background:url(emoji1.png) no-repeat;
+}
+.blue.clicked {
+  background: url(js1.png) no-repeat;
+}
+.green {
+  background:url(emoji1.png) no-repeat;
+}
+.green.clicked {
+  background: url(node1.png) no-repeat;
+}
+.orange {
+  background:url(emoji1.png) no-repeat;
+}
+.orange.clicked {
+  background: url(phyton1.png) no-repeat;
+}
+.white {
+  background:url(emoji1.png) no-repeat;
+}
+.white.clicked {
+  background: url(jsblack.png) no-repeat;
+}
+.black {
+  background:url(emoji1.png) no-repeat;
+}
+.black.clicked {
+  background: url(jsyellow1.png) no-repeat;
+}
+.yellow {
+  background:url(emoji1.png) no-repeat;
+}
+.yellow.clicked {
+  background: url(jsnode1.png) no-repeat;
+}
+.violet {
+  background:url(emoji1.png) no-repeat;
+}
+.violet.clicked {
+  background: url(jex1.png) no-repeat;
+}
+.pink {
+  background:url(emoji1.png) no-repeat;
+}
+.pink.clicked {
+  background: url(nodet1.png) no-repeat;
+}
